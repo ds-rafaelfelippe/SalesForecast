@@ -4,7 +4,7 @@ Este é um projeto de regressão.
 
 O conjunto de dados utilizado está disponível [neste link](https://www.kaggle.com/c/rossmann-store-sales). 
 
-Para visualizar o script com todo o código acesse [esse link](https://ds-rafaelfelippe.github.io/projetos/Projeto_SalesForecast.html).
+Para visualizar o script com o código completo acesse [esse link](https://ds-rafaelfelippe.github.io/projetos/Projeto_SalesForecast.html).
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
